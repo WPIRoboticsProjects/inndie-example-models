@@ -3,7 +3,7 @@
     {
       "name": "Inception ResNet V2",
       "fileName": "inception_resnet_v2.h5",
-      "url": "https://users.wpi.edu/~rgbenasutti/models/inception_resnet_v2.h5",
+      "url": "https://userweb.wpi.edu/~rgbenasutti/models/inception_resnet_v2.h5",
       "description": "A convolutional neural network trained on ImageNet. Better accuracy than any Inception or ResNet versions. Requires a lot of compute power to use.",
       "freezeLayers": [
         {
@@ -15,7 +15,7 @@
     {
       "name": "MobileNet V2",
       "fileName": "mobilenetv2_1.00_224.h5",
-      "url": "https://users.wpi.edu/~rgbenasutti/models/mobilenetv2_1.00_224.h5",
+      "url": "https://userweb.wpi.edu/~rgbenasutti/models/mobilenetv2_1.00_224.h5",
       "description": "A convolutional neural network trained on ImageNet. Acceptable accuracy and moderate compute requirements for mobile robotics.",
       "freezeLayers": [
         {
