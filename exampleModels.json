@@ -10,7 +10,7 @@
     {
       "name": "32x32x1 Convolutional (Sequential)",
       "fileName": "32_32_1_conv_sequential.h5",
-      "url": "https://users.wpi.edu/~rgbenasutti/models/32_32_1_conv_sequential.h5",
+      "url": "https://userweb.wpi.edu/~rgbenasutti/models/32_32_1_conv_sequential.h5",
       "description": "A test example model.",
       "freezeLayers": {"conv2d_8": {"value":true},"max_pooling2d_5": {"value": true},"dropout_10": {"value": true},"flatten_5": {"value": true},"dense_10": {"value": true},"dropout_11": {"value": true},"dense_11": {"value": true}}
     }
