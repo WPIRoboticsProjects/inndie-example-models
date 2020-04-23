@@ -15,6 +15,13 @@
       "freezeLayers": {"conv2d_8": {"value":true},"max_pooling2d_5": {"value": true},"dropout_10": {"value": true},"flatten_5": {"value": true},"dense_10": {"value": true},"dropout_11": {"value": true},"dense_11": {"value": true}}
     },
     {
+      "name": "Classification - Fashion MNIST",
+      "fileName": "32_32_1_conv_sequential.h5",
+      "url": "https://userweb.wpi.edu/~rgbenasutti/models/32_32_1_conv_sequential.h5",
+      "description": "A simple example model.",
+      "freezeLayers": {"conv2d_8": {"value":true},"max_pooling2d_5": {"value": true},"dropout_10": {"value": true},"flatten_5": {"value": true},"dense_10": {"value": true},"dropout_11": {"value": true},"dense_11": {"value": true}}
+    },
+    {
       "name": "MobileNet V2",
       "fileName": "mobilenetv2_1.00_224.h5",
       "url": "https://userweb.wpi.edu/~rgbenasutti/models/mobilenetv2_1.00_224.h5",
